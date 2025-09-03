@@ -117,7 +117,7 @@ dist
 
 # Gatsby files
 .cache/
-public
+# Note: SpringAuthUI/public contains important screenshots for README, so it's not ignored
 
 # Storybook build outputs
 .out
