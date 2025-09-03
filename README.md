@@ -59,10 +59,12 @@
 
 ### 🔐 **Sign In Page**
 ![Sign In](SpringAuthUI/public/signin.png)
+
 *Clean login form with 8-bit retro styling and validation*
 
 ### 📝 **Registration Page**
 ![Register](SpringAuthUI/public/register.png)
+
 *User registration form with comprehensive field validation*
 
 ### 🏠 **Home Page (Logged In)**
@@ -108,7 +110,11 @@ SpringAuthProject/
 
 ### 📁 **Backend Project Structure - Part 1**
 ![Backend Structure - First](SpringAuthUI/public/first.png)
-*Spring Boot project organization with main packages and configuration*
+
+
+*Spring Boot project organization with main packages and configuration*   
+
+
 ![Backend Structure - Second](SpringAuthUI/public/second.png)
 
 </div>
