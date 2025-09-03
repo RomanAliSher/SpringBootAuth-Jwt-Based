@@ -54,19 +54,19 @@
 <div align="center">
 
 ### 🏠 **Home Page (Logged Out)**
-![Home - Logged Out](./SpringAuthUI/public/loggedouthome.png)
+![Home - Logged Out](SpringAuthUI/public/loggedouthome.png)
 *Welcome screen with authentication prompts and retro gaming aesthetics*
 
 ### 🔐 **Sign In Page**
-![Sign In](./SpringAuthUI/public/signin.png)
+![Sign In](SpringAuthUI/public/signin.png)
 *Clean login form with 8-bit retro styling and validation*
 
 ### 📝 **Registration Page**
-![Register](./SpringAuthUI/public/register.png)
+![Register](SpringAuthUI/public/register.png)
 *User registration form with comprehensive field validation*
 
 ### 🏠 **Home Page (Logged In)**
-![Home - Logged In](./SpringAuthUI/public/loggedinhome.png)
+![Home - Logged In](SpringAuthUI/public/loggedinhome.png)
 *Personalized dashboard showing user information and system status*
 
 </div>
@@ -107,9 +107,9 @@ SpringAuthProject/
 <div align="center">
 
 ### 📁 **Backend Project Structure - Part 1**
-![Backend Structure - First](./SpringAuthUI/public/first.png)
+![Backend Structure - First](SpringAuthUI/public/first.png)
 *Spring Boot project organization with main packages and configuration*
-![Backend Structure - Second](./SpringAuthUI/public/second.png)
+![Backend Structure - Second](SpringAuthUI/public/second.png)
 
 </div>
 
